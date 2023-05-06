@@ -1,0 +1,7 @@
+John|43|123 Apple Street|514-428-3452
+Katyal| 26|49 Queen Mary Road|514 234-7654
+Ahamd|91|1888 Pepper LaneJohn|2|2|2
+Sooah|21|de la|438
+Jane|4|4|4
+w||w|w
+Soooo|12||3
